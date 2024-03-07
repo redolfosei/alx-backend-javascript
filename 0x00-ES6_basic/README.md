@@ -1,0 +1,1 @@
+How could I have forgotten about adding a readme file at the root of the project directory
